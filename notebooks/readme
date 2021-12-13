@@ -1,1 +1,7 @@
+bigdata[Section A]_group23.ipynb -> Data Profiling
+NullValueChecks_FullData.ipynb -> Working on Null Values
+RmvDuplicate_DateConversion_full_data.ipynb -> Working on Duplicate data value and Date Time conversion.
+Zip_CommBoard_full_data.ipynb -> Mapping of Zip Codes and Community Board data using reference datasets.
+MapZiptoBorough.ipynb -> Mapping Zip Codes to Boroughs.
 
+For Data Cleaning datasets can be run on the above notebooks individually or csv generated from one notebook can be fed to the next notebook.
