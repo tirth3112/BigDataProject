@@ -1,5 +1,4 @@
-# BigDataGroup23
-Final Project
+# BigData Project
 
 Data cleaning and profiling performed on the 311 Service Requests data from https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
 Tools and libraries used in the project include libraries from Python Pandas, PySpark and Openclean.
